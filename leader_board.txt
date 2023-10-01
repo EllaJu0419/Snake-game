@@ -1,0 +1,11 @@
+Amy:170
+Jackson:140
+Mary:80
+Sam:120
+Lisa:120
+Luna:240
+Mike:220
+Sunny:30
+Ella:40
+Amy:10
+Amy:10
